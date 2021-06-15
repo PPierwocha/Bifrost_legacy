@@ -1,0 +1,6 @@
+[submodule "src/numerics/SparseMatrix"]
+	path = src/numerics/SparseMatrix
+	url = https://github.com/PPierwocha/SparseMatrix.git
+[submodule "src/MeshModule"]
+	path = src/MeshModule
+	url = https://github.com/PPierwocha/MeshModule.git
