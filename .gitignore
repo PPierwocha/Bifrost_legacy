@@ -1,3 +1,7 @@
+#Output folder
+out
+#Visual Studio data
+.vs
 # Prerequisites
 *.d
 
